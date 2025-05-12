@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=unfinishedsyntax" alt="unfinishedsyntax" /></a> </p>
 
-- 💬 Ask me about **python, cpp, Machine Learning , Data Analytics**
+- 💬 Ask me about **python, cpp, Machine Learning , Data Analytics, Deep Learning**
 
 - 📫 How to reach me **mailtooashu321@gmail.com**
 
